@@ -1,3 +1,3 @@
-Algorithmic photo sorter and bulk folder creator
+# Algorithmic photo sorter and bulk folder creator
 
-Blah
+
